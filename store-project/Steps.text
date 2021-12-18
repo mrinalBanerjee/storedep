@@ -1,18 +1,9 @@
 Installation Steps
 ================
 
-1. Download zip file and Unzip file on your local server.
-2. Put this file inside "c:/xamp/htdocs/" .
+1. Open Your browser put inside URL: "http://localhost/store-project/"
+2. To Login as admin put inside URL:"http://localhost/store-project/admins"
 
-Database Configuration:
-==================
-
-1. Open phpmyadmin
-2. Create New Database named "store".
-3. Import database tables in newly created database "store" from downloaded folder -> database -> store.sql
-4. In "PROJECT-FOLDER/admin/php_files/database.php" change the value of variable $db_name = "shopping_db".
-5. Open Your browser put inside URL: "http://localhost/shopping-project/"
-6. To Login as admin put inside URL:"http://localhost/shopping-project/admin"
 
 Admin login details:
 ====================
